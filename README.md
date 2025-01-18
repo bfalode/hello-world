@@ -1,18 +1,7 @@
 # hello-world
 
-Another update
-THIS IS ANOTHER UPDATE THAT I'M SAVING TO THE REPO
-services:
-  backend:
-    image: ai/chat-demo-backend:latest
-    build: ./backend
-    ports:
-      - "8000:8000"
-    environment:
-      - MODEL_HOST=http://ollama:11434
-    depends_on:
-      ollama:
-        condition: service_healthy
+
+
 
   frontend:
     image: ai/chat-demo-frontend:latest
