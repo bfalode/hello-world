@@ -2,6 +2,6 @@
 
 Another update
 This is to implement change as i know   
-i am updating the new file
-ghdhhdhd
-hhfhfhfh
+This is new update that i'm working on
+This is a new update that i'm working on
+This is a new update that i'm working on
